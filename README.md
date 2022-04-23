@@ -67,7 +67,7 @@ npm start
 ## ```GROUP BOT```
 
 - [`GROUP WA`](https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei)
-
+ [Official Group 1](https://chat.whatsapp.com/HLU6B1Mw34QBMUoXAyhec0)
 
 ---------
 
@@ -87,7 +87,7 @@ npm start
 </p>
 <a href="https://vt.tiktok.com/ZSdDcFoMW/"><img src="https://img.shields.io/badge/Tiktok Neko botz-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://vt.tiktok.com/ZSdDcFoMW/" /></a>
 </p>
-
+[Saweria](https://saweria.co/GexusR12)
 
 ## Thanks To
 AllahSwt,Ortugw,Gw
