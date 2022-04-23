@@ -81,6 +81,8 @@ npm start
 <a href="https://wa.me/62895335751267"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UC88duvCVK3M_gAwGlQDDdYQ"><img src="https://img.shields.io/badge/YouTube NEKO BOTZ-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCJPqI5eVhKPXPL2V8y6pIDA" /><br>
 </p>
+<a href="https://vt.tiktok.com/ZSdDcFoMW/"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://vt.tiktok.com/ZSdDcFoMW/" /></a>
+</p>
 
 
 ## Thanks To
