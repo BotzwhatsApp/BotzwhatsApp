@@ -66,3 +66,5 @@ Dhanigans
 Ramdaniofficial
 Neko Botz
 Lexxy official
+
+![statistik github](https://github.com/BotzwhatsApp/BotzwhatsApp/edit/main/README.md&heme=radical)
